@@ -1,16 +1,18 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
+    <TitleComponent></TitleComponent>
   </div>
 </template>
 
 <script>
+import TitleComponent from "./components/TitleComponent.vue";
 
 
 export default {
   name: 'App',
   components: {
-  }
+    TitleComponent
+}
 }
 </script>
 
