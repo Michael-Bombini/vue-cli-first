@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1 class="bg-danger">La mia prima app con Vue CLI!</h1>
+        <h1 class="bg-success text-light text-center p-3">La mia prima app con Vue CLI!</h1>
     </div>
 </template>
 
